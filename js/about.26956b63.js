@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkflores_amarillas_lmrl"]=self["webpackChunkflores_amarillas_lmrl"]||[]).push([[443],{8763:function(l,r,a){a.r(r),a.d(r,{default:function(){return i}});var n=a(3396);function e(l,r,a,e,s,u){const o=(0,n.up)("FlorAmarilla");return(0,n.wg)(),(0,n.iD)("div",null,[(0,n.Wm)(o)])}var s=a(9928),u={components:{FlorAmarilla:s.Z}},o=a(89);const t=(0,o.Z)(u,[["render",e]]);var i=t}}]);
+//# sourceMappingURL=about.26956b63.js.map
